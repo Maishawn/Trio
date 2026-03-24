@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRIO Student Support Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- HERO SECTION -->
+<header class="hero">
+    <div class="hero-text">
+        <h1>TRIO Student Support Services</h1>
+        <p>Supporting your academic journey at Dominican University</p>
+        <a href="#" class="btn">Apply Now</a>
+    </div>
+</header>
+
+<!-- QUICK CARDS -->
+<section class="cards">
+    <div class="card">
+        <h3>Tutoring</h3>
+        <p>Free academic support to help you succeed.</p>
+    </div>
+
+    <div class="card">
+        <h3>Advising</h3>
+        <p>Personal guidance for your academic goals.</p>
+    </div>
+
+    <div class="card">
+        <h3>Financial Help</h3>
+        <p>Support with FAFSA and scholarships.</p>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section class="about">
+    <h2>About TRIO</h2>
+    <p>
+        TRIO Student Support Services helps students stay in college, graduate,
+        and achieve their academic goals through personalized support.
+    </p>
+</section>
+
+<!-- SERVICES -->
+<section class="services">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Academic tutoring</li>
+        <li>Financial literacy</li>
+        <li>Career preparation</li>
+        <li>Graduate school guidance</li>
+    </ul>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+    <h2>Ready to Get Started?</h2>
+    <a href="#" class="btn">Contact Us</a>
+</section>
+
+</body>
+</html>
